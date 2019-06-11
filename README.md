@@ -13,7 +13,9 @@ Weatherbit, free to get weather forcast hourly for the next 48 hours
 pythonanywhere, free up to one app and one daily task. This allows you to run the script daily, say, every morning, 5 minutes before you leave for work ? :)
 
 https://www.twilio.com
+
 https://www.weatherbit.io
+
 https://www.pythonanywhere.com
 
 Author: guillaume jobst

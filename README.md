@@ -18,3 +18,5 @@ https://www.pythonanywhere.com
 
 Author: guillaume jobst
         contact@cgtoolbox.com
+        
+![](https://github.com/cgtoolbox/LazyForecast/blob/master/lazy_forecast_sms.jpg)
